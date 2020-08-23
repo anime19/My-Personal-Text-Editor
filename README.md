@@ -1,5 +1,5 @@
 # My-Personal-Text-Editor
 
-## A tect-editor using JAVA (Swing)
+## A text-editor using JAVA (Swing)
 
-## Used array,stack datas tructures to perform the commands.
+## Used array, stack data structures to perform the commands.
